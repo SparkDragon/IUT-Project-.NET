@@ -1,0 +1,7 @@
+U:\LP\CSharp\QuidditchManager3\BusinessLayer\bin\Debug\BusinessLayer.dll
+U:\LP\CSharp\QuidditchManager3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+U:\LP\CSharp\QuidditchManager3\BusinessLayer\bin\Debug\DataAcessLayer.dll
+U:\LP\CSharp\QuidditchManager3\BusinessLayer\bin\Debug\DataAcessLayer.pdb
+U:\LP\CSharp\QuidditchManager3\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+U:\LP\CSharp\QuidditchManager3\BusinessLayer\obj\Debug\BusinessLayer.dll
+U:\LP\CSharp\QuidditchManager3\BusinessLayer\obj\Debug\BusinessLayer.pdb

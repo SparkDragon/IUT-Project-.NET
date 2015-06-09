@@ -1,0 +1,17 @@
+﻿<Window x:Class="QuidditchManagerWPF.CatcherWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:src="clr-namespace:QuidditchManagerWPF"
+        Title="Catcher list" Height="350" Width="525">
+    <Grid Margin="10,0,2,0" Height="320" VerticalAlignment="Top">
+
+        <StackPanel DockPanel.Dock="Left" Margin="10,5">
+            <StackPanel.Resources>
+                <src:Catchers x:Key="catchers"/>
+            </StackPanel.Resources>
+            <Label FontWeight="Bold" FontSize="15">Catcher list</Label>
+            <ListBox ItemsSource="{StaticResource catchers}">
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</Window>

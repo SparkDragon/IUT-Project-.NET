@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D669F7D9-ACE4-4264-A2C1-F01AB304E3D3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataAcessLayer</RootNamespace>
+    <AssemblyName>DataAcessLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entity\Booking.cs" />
+    <Compile Include="Entity\Cup.cs" />
+    <Compile Include="Entity\IBooking.cs" />
+    <Compile Include="Entity\ICup.cs" />
+    <Compile Include="Entity\IMatch.cs" />
+    <Compile Include="Entity\IPerson.cs" />
+    <Compile Include="Entity\IPlayer.cs" />
+    <Compile Include="Entity\IReferee.cs" />
+    <Compile Include="Entity\ISpectator.cs" />
+    <Compile Include="Entity\IStadium.cs" />
+    <Compile Include="Entity\ITeam.cs" />
+    <Compile Include="Entity\Match.cs" />
+    <Compile Include="Entity\Player.cs" />
+    <Compile Include="Entity\Referee.cs" />
+    <Compile Include="Entity\Spectator.cs" />
+    <Compile Include="Entity\Stadium.cs" />
+    <Compile Include="Entity\Team.cs" />
+    <Compile Include="Factory\BookingFactory.cs" />
+    <Compile Include="Factory\CupFactory.cs" />
+    <Compile Include="Factory\MatchFactory.cs" />
+    <Compile Include="Factory\PlayerFactory.cs" />
+    <Compile Include="Factory\RefereeFactory.cs" />
+    <Compile Include="Factory\SpectatorFactory.cs" />
+    <Compile Include="Factory\StadiumFactory.cs" />
+    <Compile Include="Factory\TeamFactory.cs" />
+    <Compile Include="Manager\BookingStubManager.cs" />
+    <Compile Include="Manager\CupStubManager.cs" />
+    <Compile Include="Manager\IBookingManager.cs" />
+    <Compile Include="Manager\ICupManager.cs" />
+    <Compile Include="Manager\IMatchManager.cs" />
+    <Compile Include="Manager\IPlayerManager.cs" />
+    <Compile Include="Manager\IRefereeManager.cs" />
+    <Compile Include="Manager\ISpectatorManager.cs" />
+    <Compile Include="Manager\IStadiumManager.cs" />
+    <Compile Include="Manager\ITeamManager.cs" />
+    <Compile Include="Manager\MatchStubManager.cs" />
+    <Compile Include="Manager\PlayerStubManager.cs" />
+    <Compile Include="Manager\RefereeStubManager.cs" />
+    <Compile Include="Manager\SpectatorStubManager.cs" />
+    <Compile Include="Manager\StadiumStubManager.cs" />
+    <Compile Include="Manager\TeamStubManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

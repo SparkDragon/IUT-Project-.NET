@@ -1,0 +1,4 @@
+U:\LP\CSharp\QuidditchManager3\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+U:\LP\CSharp\QuidditchManager3\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+U:\LP\CSharp\QuidditchManager3\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+U:\LP\CSharp\QuidditchManager3\DataAcessLayer\obj\Debug\DataAcessLayer.pdb

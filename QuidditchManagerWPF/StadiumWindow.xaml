@@ -1,0 +1,18 @@
+﻿<Window x:Class="QuidditchManagerWPF.StadiumWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:src="clr-namespace:QuidditchManagerWPF"
+        Title="Stadiums - Quidditch World Cup" Height="350" Width="525">
+    <Grid>
+        <StackPanel>
+            <Label FontWeight="Bold" FontSize="19">Stadiums where at least one match has been played on</Label>
+            <StackPanel Margin="5">
+                <StackPanel.Resources>
+                    <src:Stadiums x:Key="stadiums"/>
+                </StackPanel.Resources>
+                <ListBox ItemsSource="{StaticResource stadiums}" FontSize="15">
+                </ListBox>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

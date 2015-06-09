@@ -1,0 +1,10 @@
+U:\LP\CSharp\QuidditchManager3\QuidditchManagerConsole\bin\Debug\QuidditchManagerConsole.exe.config
+U:\LP\CSharp\QuidditchManager3\QuidditchManagerConsole\obj\Debug\QuidditchManagerConsole.csprojResolveAssemblyReference.cache
+U:\LP\CSharp\QuidditchManager3\QuidditchManagerConsole\bin\Debug\QuidditchManagerConsole.exe
+U:\LP\CSharp\QuidditchManager3\QuidditchManagerConsole\bin\Debug\QuidditchManagerConsole.pdb
+U:\LP\CSharp\QuidditchManager3\QuidditchManagerConsole\bin\Debug\BusinessLayer.dll
+U:\LP\CSharp\QuidditchManager3\QuidditchManagerConsole\bin\Debug\DataAcessLayer.dll
+U:\LP\CSharp\QuidditchManager3\QuidditchManagerConsole\bin\Debug\BusinessLayer.pdb
+U:\LP\CSharp\QuidditchManager3\QuidditchManagerConsole\bin\Debug\DataAcessLayer.pdb
+U:\LP\CSharp\QuidditchManager3\QuidditchManagerConsole\obj\Debug\QuidditchManagerConsole.exe
+U:\LP\CSharp\QuidditchManager3\QuidditchManagerConsole\obj\Debug\QuidditchManagerConsole.pdb
