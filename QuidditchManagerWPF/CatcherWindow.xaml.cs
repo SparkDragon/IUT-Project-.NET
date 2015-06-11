@@ -28,7 +28,7 @@ namespace QuidditchManagerWPF
     {
         public Catchers()
         {
-            PlayerManager playerManager = new PlayerManager();
+            PlayerBusiness playerManager = new PlayerBusiness();
             IEnumerable<string> listCatcher = playerManager.GetCatchers();
             foreach (string catcher in listCatcher)
             {

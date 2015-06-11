@@ -31,7 +31,7 @@ namespace QuidditchManagerWPF
     {
         public Stadiums()
         {
-            StadiumManager stadiumManager = new StadiumManager();
+            StadiumBusiness stadiumManager = new StadiumBusiness();
             IEnumerable<string> listStadium = stadiumManager.GetStadiums();
             foreach (string stadium in listStadium)
             {

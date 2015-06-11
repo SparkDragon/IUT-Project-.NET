@@ -12,9 +12,9 @@ namespace QuidditchManagerConsole
         static void Main(string[] args)
         {
             int choice;
-            PlayerManager playerManager = new PlayerManager();
-            MatchManager matchManager = new MatchManager();
-            StadiumManager stadiumManager = new StadiumManager();
+            PlayerBusiness playerManager = new PlayerBusiness();
+            MatchBusiness matchManager = new MatchBusiness();
+            StadiumBusiness stadiumManager = new StadiumBusiness();
 
             do
             {
@@ -47,7 +47,7 @@ namespace QuidditchManagerConsole
 
         static void displayMatches()
         {
-            MatchManager matchManager = new MatchManager();
+            MatchBusiness matchManager = new MatchBusiness();
             IEnumerable<string> listMatch = matchManager.GetMatchesOrderedByDate();
             int i = 1;
             foreach (string match in listMatch)
@@ -58,7 +58,7 @@ namespace QuidditchManagerConsole
 
         static void displayStadiums()
         {
-            StadiumManager stadiumManager = new StadiumManager();
+            StadiumBusiness stadiumManager = new StadiumBusiness();
             IEnumerable<string> listStadiums = stadiumManager.GetStadiums();
             foreach (string stadium in listStadiums)
             {
@@ -68,7 +68,7 @@ namespace QuidditchManagerConsole
 
         static void displayCatchers()
         {
-            PlayerManager playerManager = new PlayerManager();
+            PlayerBusiness playerManager = new PlayerBusiness();
             IEnumerable<string> listCatchers = playerManager.GetCatchers();
             foreach (string catcher in listCatchers)
             {
@@ -78,7 +78,7 @@ namespace QuidditchManagerConsole
 
         static void displayGoalKeepers()
         {
-            PlayerManager playerManager = new PlayerManager();
+            PlayerBusiness playerManager = new PlayerBusiness();
             IEnumerable<string> listGoalkeepers = playerManager.GetGoalkeepers();
             foreach (string goalkepper in listGoalkeepers)
             {
@@ -88,7 +88,7 @@ namespace QuidditchManagerConsole
 
         static void displayAvailablePlaces()
         {
-            MatchManager matchManager = new MatchManager();
+            MatchBusiness matchManager = new MatchBusiness();
             string placeAvailable;
 
             do

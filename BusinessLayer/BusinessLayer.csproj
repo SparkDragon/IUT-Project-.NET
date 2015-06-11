@@ -39,11 +39,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CupManager.cs" />
-    <Compile Include="MatchManager.cs" />
-    <Compile Include="PlayerManager.cs" />
+    <Compile Include="Business\CupBusiness.cs" />
+    <Compile Include="Business\MatchBusiness.cs" />
+    <Compile Include="Business\PlayerBusiness.cs" />
+    <Compile Include="Manager\CupManager.cs" />
+    <Compile Include="Manager\MatchManager.cs" />
+    <Compile Include="Manager\PlayerManager.cs" />
+    <Compile Include="Manager\StadiumManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StadiumManager.cs" />
+    <Compile Include="Business\StadiumBusiness.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataAcessLayer\DataAccessLayer.csproj">

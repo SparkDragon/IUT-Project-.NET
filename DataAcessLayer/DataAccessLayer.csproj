@@ -64,7 +64,9 @@
     <Compile Include="Factory\SpectatorFactory.cs" />
     <Compile Include="Factory\StadiumFactory.cs" />
     <Compile Include="Factory\TeamFactory.cs" />
+    <Compile Include="Manager\BookingSqlManager.cs" />
     <Compile Include="Manager\BookingStubManager.cs" />
+    <Compile Include="Manager\CupSqlManager.cs" />
     <Compile Include="Manager\CupStubManager.cs" />
     <Compile Include="Manager\IBookingManager.cs" />
     <Compile Include="Manager\ICupManager.cs" />
@@ -74,11 +76,18 @@
     <Compile Include="Manager\ISpectatorManager.cs" />
     <Compile Include="Manager\IStadiumManager.cs" />
     <Compile Include="Manager\ITeamManager.cs" />
+    <Compile Include="Manager\MatchSqlManager.cs" />
     <Compile Include="Manager\MatchStubManager.cs" />
+    <Compile Include="Manager\PlayerSqlManager.cs" />
     <Compile Include="Manager\PlayerStubManager.cs" />
+    <Compile Include="Manager\RefereeSqlManager.cs" />
     <Compile Include="Manager\RefereeStubManager.cs" />
+    <Compile Include="Manager\SpectatorSqlManager.cs" />
     <Compile Include="Manager\SpectatorStubManager.cs" />
+    <Compile Include="Manager\SqlDataBase.cs" />
+    <Compile Include="Manager\StadiumSqlManager.cs" />
     <Compile Include="Manager\StadiumStubManager.cs" />
+    <Compile Include="Manager\TeamSqlManager.cs" />
     <Compile Include="Manager\TeamStubManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

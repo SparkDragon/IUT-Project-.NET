@@ -23,8 +23,8 @@ namespace QuidditchManagerWPF
         public AvailablePlacesWindow(int selectedIndex)
         {
             InitializeComponent();
-            MatchManager matchManager = new MatchManager();
-            string placeNumber = matchManager.GetAvailablePlaces(selectedIndex);
+            MatchBusiness matchBusiness = new MatchBusiness();
+            string placeNumber = matchBusiness.GetAvailablePlaces(selectedIndex);
             string text = placeNumber + " place(s) available";
             places.Content = text;
         }

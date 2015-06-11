@@ -8,3 +8,13 @@ U:\LP\CSharp\QuidditchManager3\QuidditchManagerConsole\bin\Debug\BusinessLayer.p
 U:\LP\CSharp\QuidditchManager3\QuidditchManagerConsole\bin\Debug\DataAcessLayer.pdb
 U:\LP\CSharp\QuidditchManager3\QuidditchManagerConsole\obj\Debug\QuidditchManagerConsole.exe
 U:\LP\CSharp\QuidditchManager3\QuidditchManagerConsole\obj\Debug\QuidditchManagerConsole.pdb
+F:\Google Drive\Programming\C#\QuidditchManager\QuidditchManagerConsole\bin\Debug\QuidditchManagerConsole.exe.config
+F:\Google Drive\Programming\C#\QuidditchManager\QuidditchManagerConsole\obj\Debug\QuidditchManagerConsole.exe
+F:\Google Drive\Programming\C#\QuidditchManager\QuidditchManagerConsole\obj\Debug\QuidditchManagerConsole.pdb
+F:\Google Drive\Programming\C#\QuidditchManager\QuidditchManagerConsole\bin\Debug\QuidditchManagerConsole.exe
+F:\Google Drive\Programming\C#\QuidditchManager\QuidditchManagerConsole\bin\Debug\QuidditchManagerConsole.pdb
+F:\Google Drive\Programming\C#\QuidditchManager\QuidditchManagerConsole\bin\Debug\BusinessLayer.dll
+F:\Google Drive\Programming\C#\QuidditchManager\QuidditchManagerConsole\bin\Debug\DataAcessLayer.dll
+F:\Google Drive\Programming\C#\QuidditchManager\QuidditchManagerConsole\bin\Debug\BusinessLayer.pdb
+F:\Google Drive\Programming\C#\QuidditchManager\QuidditchManagerConsole\bin\Debug\DataAcessLayer.pdb
+F:\Google Drive\Programming\C#\QuidditchManager\QuidditchManagerConsole\obj\Debug\QuidditchManagerConsole.csprojResolveAssemblyReference.cache

@@ -31,7 +31,7 @@ namespace QuidditchManagerWPF
     {
         public GoalKeepers()
         {
-            PlayerManager playerManager = new PlayerManager();
+            PlayerBusiness playerManager = new PlayerBusiness();
             IEnumerable<string> listGoalkeeper = playerManager.GetGoalkeepers();
             foreach (string goalkeeper in listGoalkeeper)
             {

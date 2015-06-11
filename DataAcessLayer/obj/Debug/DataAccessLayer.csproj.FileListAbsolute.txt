@@ -2,3 +2,8 @@ U:\LP\CSharp\QuidditchManager3\DataAcessLayer\bin\Debug\DataAcessLayer.dll
 U:\LP\CSharp\QuidditchManager3\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
 U:\LP\CSharp\QuidditchManager3\DataAcessLayer\obj\Debug\DataAcessLayer.dll
 U:\LP\CSharp\QuidditchManager3\DataAcessLayer\obj\Debug\DataAcessLayer.pdb
+F:\Google Drive\Programming\C#\QuidditchManager\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+F:\Google Drive\Programming\C#\QuidditchManager\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+F:\Google Drive\Programming\C#\QuidditchManager\DataAcessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+F:\Google Drive\Programming\C#\QuidditchManager\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+F:\Google Drive\Programming\C#\QuidditchManager\DataAcessLayer\obj\Debug\DataAcessLayer.pdb

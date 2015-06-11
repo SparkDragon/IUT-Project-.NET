@@ -57,7 +57,7 @@ namespace QuidditchManagerWPF
     {
         public Matchees()
         {
-            MatchManager matchManager = new MatchManager();
+            MatchBusiness matchManager = new MatchBusiness();
             IEnumerable<string> listMatch = matchManager.GetMatchesOrderedByDate();
             foreach (string match in listMatch)
             {
