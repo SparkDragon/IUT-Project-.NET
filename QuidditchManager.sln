@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuidditchManagerWPF", "Quid
 		{6E75E890-8492-4249-9EEA-AD9A29A5077D} = {6E75E890-8492-4249-9EEA-AD9A29A5077D}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayerTest", "DataAccessLayerTest\DataAccessLayerTest.csproj", "{C5E77F03-1C42-40E1-9000-AB59199CCAED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{4AA64B25-B65C-43F9-B02F-593CBD0FEF7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AA64B25-B65C-43F9-B02F-593CBD0FEF7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AA64B25-B65C-43F9-B02F-593CBD0FEF7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E77F03-1C42-40E1-9000-AB59199CCAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E77F03-1C42-40E1-9000-AB59199CCAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E77F03-1C42-40E1-9000-AB59199CCAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E77F03-1C42-40E1-9000-AB59199CCAED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

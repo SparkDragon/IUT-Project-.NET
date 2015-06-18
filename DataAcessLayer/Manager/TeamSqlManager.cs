@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DataAcessLayer.Manager
 {
-    class TeamSqlManager : ITeamManager
+    public class TeamSqlManager : ITeamManager
     {
         public List<ITeam> GetTeams()
         {

@@ -1,0 +1,14 @@
+U:\LP\CSharp\QuidditchManager4\DataAccessLayerTest\bin\Debug\DataAccessLayerTest.dll
+U:\LP\CSharp\QuidditchManager4\DataAccessLayerTest\bin\Debug\DataAccessLayerTest.pdb
+U:\LP\CSharp\QuidditchManager4\DataAccessLayerTest\bin\Debug\DataAcessLayer.dll
+U:\LP\CSharp\QuidditchManager4\DataAccessLayerTest\bin\Debug\DataAcessLayer.pdb
+U:\LP\CSharp\QuidditchManager4\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.csprojResolveAssemblyReference.cache
+U:\LP\CSharp\QuidditchManager4\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.dll
+U:\LP\CSharp\QuidditchManager4\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.pdb
+F:\Google Drive\Programming\C#\QuidditchManager\DataAccessLayerTest\bin\Debug\DataAccessLayerTest.dll
+F:\Google Drive\Programming\C#\QuidditchManager\DataAccessLayerTest\bin\Debug\DataAccessLayerTest.pdb
+F:\Google Drive\Programming\C#\QuidditchManager\DataAccessLayerTest\bin\Debug\DataAcessLayer.dll
+F:\Google Drive\Programming\C#\QuidditchManager\DataAccessLayerTest\bin\Debug\DataAcessLayer.pdb
+F:\Google Drive\Programming\C#\QuidditchManager\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.csprojResolveAssemblyReference.cache
+F:\Google Drive\Programming\C#\QuidditchManager\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.dll
+F:\Google Drive\Programming\C#\QuidditchManager\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.pdb

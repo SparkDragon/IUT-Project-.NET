@@ -8,6 +8,6 @@ namespace DataAcessLayer.Manager
 {
     public class SqlDataBase
     {
-        public const String CONNECTION_STRING = "Data Source=(LocalDB)\\v11.0;AttachDbFilename=F:\\Documents\\QuidditchManager.mdf;Integrated Security=True;Connect Timeout=30";
+        public const String CONNECTION_STRING = "Data Source=(LocalDB)\\v11.0;AttachDbFilename=\"F:\\Google Drive\\Programming\\C#\\QuidditchManager\\QuidditchManager.mdf\";Integrated Security=True;Connect Timeout=30";
     }
 }
