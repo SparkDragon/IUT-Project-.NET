@@ -14,6 +14,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using BusinessLayer;
+using QuidditchManagerWPF.ViewModel;
+using QuidditchManagerWPF.View;
 
 namespace QuidditchManagerWPF
 {
@@ -22,6 +24,12 @@ namespace QuidditchManagerWPF
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void MatchesClicked(object sender, RoutedEventArgs e)
+        {
+            MatchesViewer matchWindow = new MatchesViewer();
+            matchWindow.Show();
         }
 
         private void StadiumClicked(object sender, RoutedEventArgs e)

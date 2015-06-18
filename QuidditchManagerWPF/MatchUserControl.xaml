@@ -1,0 +1,107 @@
+﻿<UserControl x:Class="QuidditchManagerWPF.MatchUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Height="141" Width="454">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="6" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="6" />
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="6" />
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="6" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="Auto" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="10" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="10" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="10" />
+        </Grid.RowDefinitions>
+
+        <Label 
+      Grid.Row="0" Grid.Column="0" 
+      Content="Team 1:" 
+      HorizontalAlignment="Right"
+      Target="{Binding ElementName=team1}"
+      />
+        <TextBox 
+      x:Name="team1"
+      Grid.Row="0" Grid.Column="2" 
+      Text="{Binding Path=Team1, UpdateSourceTrigger=PropertyChanged}" 
+      />
+        <TextBox 
+      x:Name="score1"
+      Grid.Row="0" Grid.Column="4" 
+      Text="{Binding Path=Team1Score, UpdateSourceTrigger=PropertyChanged}" 
+      />
+        <TextBox 
+      x:Name="score2"
+      Grid.Row="0" Grid.Column="6" 
+      Text="{Binding Path=Team2Score, UpdateSourceTrigger=PropertyChanged}" 
+      />
+        <TextBox 
+      x:Name="team2"
+      Grid.Row="0" Grid.Column="8" 
+      Text="{Binding Path=Team2, UpdateSourceTrigger=PropertyChanged}"
+      />
+        <Label 
+      Grid.Row="0" Grid.Column="10" 
+      Content=":Team 2" 
+      HorizontalAlignment="Left"
+      Target="{Binding ElementName=team2}" 
+      />
+
+        <Label 
+      Grid.Row="2" Grid.Column="0" 
+      Content="Stadium:" 
+      HorizontalAlignment="Right"
+      Target="{Binding ElementName=stadium}"
+      />
+        <TextBox 
+      x:Name="stadium"
+      Grid.Row="2" Grid.Column="2" 
+      Text="{Binding Path=Stadium, UpdateSourceTrigger=PropertyChanged}" 
+      />
+        <WrapPanel Grid.Row="2" Grid.Column="8" >
+            <Label 
+          Content=" Cup:" 
+          HorizontalAlignment="Right"
+          Target="{Binding ElementName=cup}"
+          />
+            <TextBox 
+          x:Name="cup"
+          Width="70"
+          Text="{Binding Path=Cup, UpdateSourceTrigger=PropertyChanged}" 
+          />
+        </WrapPanel>
+        <Label 
+      Grid.Row="4" Grid.Column="0" 
+      Content="Referee:" 
+      HorizontalAlignment="Right"
+      Target="{Binding ElementName=referee}"
+      />
+        <TextBox 
+      x:Name="referee"
+      Grid.Row="4" Grid.Column="2" 
+      Text="{Binding Path=Referee, UpdateSourceTrigger=PropertyChanged}" 
+      />
+        <WrapPanel Grid.Row="4" Grid.Column="8" >
+            <Label 
+          Content="Date:" 
+          HorizontalAlignment="Right"
+          Target="{Binding ElementName=date}"
+          />
+            <TextBox 
+          x:Name="date"
+          Width="70"
+          Text="{Binding Path=MatchDate, UpdateSourceTrigger=PropertyChanged}" 
+          />
+        </WrapPanel>
+    </Grid>
+</UserControl>

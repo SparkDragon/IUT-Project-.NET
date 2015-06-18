@@ -11,3 +11,5 @@ QuidditchManager.v11.suo
 QuidditchManager.v12.suo
 QuidditchManager/QuidditchManager.csproj
 QuidditchManager/DataAcessLayer/Manager/SqlDataBase.cs
+QuidditchManager.mdf
+TestResults

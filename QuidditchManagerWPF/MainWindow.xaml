@@ -17,6 +17,7 @@
                 </StackPanel>
                 <StackPanel DockPanel.Dock="Right" Margin="5">
                     <Label FontWeight="Bold" FontSize="15">Main Menu :</Label>
+                    <Button Content="Matches" Click="MatchesClicked"/>
                     <Button Content="Stadium" Click="StadiumClicked"/>
                     <Button Click="CatcherClicked">Catcher</Button>
                     <Button Click="GoalKeeperClicked">Goalkeeper</Button>

@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="QuidditchManagerWPF.MatchesUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:my="clr-namespace:QuidditchManagerWPF"
+             Height="390" Width="525">
+    <Grid>
+        <StackPanel>
+            <Label FontWeight="Bold" FontSize="20">Matches</Label>
+            <StackPanel>
+                <ListView
+                    ItemsSource="{Binding Matches}" 
+                    SelectedItem="{Binding SelectedItem}"
+                    Grid.Row="1" Grid.ColumnSpan="3" 
+                    Margin="5,5,5,5">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Date" DisplayMemberBinding="{Binding MatchDateFormat}"/>
+                            <GridViewColumn Header="Team 1" DisplayMemberBinding="{Binding Team1}"/>
+                            <GridViewColumn Header="Team 2" DisplayMemberBinding="{Binding Team2}"/>
+                            <GridViewColumn Header="Score 1" DisplayMemberBinding="{Binding Team1Score}"/>
+                            <GridViewColumn Header="Score 2" DisplayMemberBinding="{Binding Team2Score}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </StackPanel>
+            <my:MatchUserControl DataContext="{Binding SelectedItem}"></my:MatchUserControl>
+            <Button Name="Add" 
+                Command="{Binding Path=AddCommand}">Add</Button>
+            <Button Name="Remove" 
+                Command="{Binding Path=RemoveCommand}">Remove</Button>
+        </StackPanel>
+    </Grid>
+</UserControl>

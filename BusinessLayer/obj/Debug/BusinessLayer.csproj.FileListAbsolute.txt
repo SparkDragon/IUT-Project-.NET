@@ -19,3 +19,10 @@ U:\LP\CSharp\QuidditchManager4\BusinessLayer\bin\Debug\DataAcessLayer.pdb
 U:\LP\CSharp\QuidditchManager4\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
 U:\LP\CSharp\QuidditchManager4\BusinessLayer\obj\Debug\BusinessLayer.dll
 U:\LP\CSharp\QuidditchManager4\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\BusinessLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\BusinessLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\BusinessLayer\obj\Debug\BusinessLayer.pdb

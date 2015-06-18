@@ -21,7 +21,7 @@ namespace DataAcessLayer.Manager
 
             using (SqlConnection sqlConnection = new SqlConnection(SqlDataBase.CONNECTION_STRING))
             {
-                String request = "SELECT Team1Id, Team2Id, StadiumId, RefereeId, Team1Score, Team2Score, CupId, MatchDate, Id"
+                String request = "SELECT Team1Id, Team2Id, StadiumId, RefereeId, CupId, Team1Score, Team2Score, MatchDate, Id"
                     + " FROM Match";
                 SqlCommand sqlCommand = new SqlCommand(request, sqlConnection);
                 sqlConnection.Open();

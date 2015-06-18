@@ -12,3 +12,10 @@ F:\Google Drive\Programming\C#\QuidditchManager\DataAccessLayerTest\bin\Debug\Da
 F:\Google Drive\Programming\C#\QuidditchManager\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.csprojResolveAssemblyReference.cache
 F:\Google Drive\Programming\C#\QuidditchManager\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.dll
 F:\Google Drive\Programming\C#\QuidditchManager\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.pdb
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\DataAccessLayerTest\bin\Debug\DataAccessLayerTest.dll
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\DataAccessLayerTest\bin\Debug\DataAccessLayerTest.pdb
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\DataAccessLayerTest\bin\Debug\DataAcessLayer.dll
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\DataAccessLayerTest\bin\Debug\DataAcessLayer.pdb
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.dll
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.pdb

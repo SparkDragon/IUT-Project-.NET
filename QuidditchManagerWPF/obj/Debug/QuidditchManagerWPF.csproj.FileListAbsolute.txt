@@ -82,3 +82,43 @@ U:\LP\CSharp\QuidditchManager4\QuidditchManagerWPF\obj\Debug\StadiumWindow.baml
 U:\LP\CSharp\QuidditchManager4\QuidditchManagerWPF\obj\Debug\QuidditchManagerWPF.g.resources
 U:\LP\CSharp\QuidditchManager4\QuidditchManagerWPF\obj\Debug\QuidditchManagerWPF.Properties.Resources.resources
 U:\LP\CSharp\QuidditchManager4\QuidditchManagerWPF\obj\Debug\QuidditchManagerWPF.csproj.GenerateResource.Cache
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\bin\Debug\QuidditchManagerWPF.exe.config
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\QuidditchManagerWPF.exe
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\QuidditchManagerWPF.pdb
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\bin\Debug\QuidditchManagerWPF.exe
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\bin\Debug\QuidditchManagerWPF.pdb
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\bin\Debug\BusinessLayer.dll
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\bin\Debug\DataAcessLayer.dll
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\bin\Debug\BusinessLayer.pdb
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\bin\Debug\DataAcessLayer.pdb
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\QuidditchManagerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\AvailablePlacesWindow.baml
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\AvailablePlacesWindow.g.cs
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\CatcherWindow.g.cs
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\GoalKeeperWindow.g.cs
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\StadiumWindow.g.cs
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\App.g.cs
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\QuidditchManagerWPF_Content.g.cs
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\QuidditchManagerWPF_MarkupCompile.cache
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\QuidditchManagerWPF_MarkupCompile.lref
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\CatcherWindow.baml
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\GoalKeeperWindow.baml
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\MainWindow.baml
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\StadiumWindow.baml
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\QuidditchManagerWPF.g.resources
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\QuidditchManagerWPF.Properties.Resources.resources
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\QuidditchManagerWPF.csproj.GenerateResource.Cache
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\MatchUserControl.baml
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\MatchesUserControl.g.cs
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\MatchUserControl.g.cs
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\View\MatchesViewer.g.cs
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\MatchesUserControl.baml
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerWPF\obj\Debug\View\MatchesViewer.baml
+F:\Google Drive\Programming\C#\QuidditchManager\QuidditchManagerWPF\obj\Debug\MatchUserControl.baml
+F:\Google Drive\Programming\C#\QuidditchManager\QuidditchManagerWPF\obj\Debug\MatchesUserControl.g.cs
+F:\Google Drive\Programming\C#\QuidditchManager\QuidditchManagerWPF\obj\Debug\MatchUserControl.g.cs
+F:\Google Drive\Programming\C#\QuidditchManager\QuidditchManagerWPF\obj\Debug\View\MatchesViewer.g.cs
+F:\Google Drive\Programming\C#\QuidditchManager\QuidditchManagerWPF\obj\Debug\MatchesUserControl.baml
+F:\Google Drive\Programming\C#\QuidditchManager\QuidditchManagerWPF\obj\Debug\View\MatchesViewer.baml

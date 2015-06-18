@@ -42,12 +42,24 @@
     <Compile Include="Business\CupBusiness.cs" />
     <Compile Include="Business\MatchBusiness.cs" />
     <Compile Include="Business\PlayerBusiness.cs" />
+    <Compile Include="Entity\Cup.cs" />
+    <Compile Include="Entity\ICup.cs" />
+    <Compile Include="Entity\IMatch.cs" />
+    <Compile Include="Entity\IPerson.cs" />
+    <Compile Include="Entity\IReferee.cs" />
+    <Compile Include="Entity\ITeam.cs" />
+    <Compile Include="Entity\Match.cs" />
+    <Compile Include="Entity\Referee.cs" />
+    <Compile Include="Entity\Stadium.cs" />
+    <Compile Include="Entity\Team.cs" />
+    <Compile Include="Entity\IStadium.cs" />
     <Compile Include="Manager\CupManager.cs" />
     <Compile Include="Manager\MatchManager.cs" />
     <Compile Include="Manager\PlayerManager.cs" />
     <Compile Include="Manager\StadiumManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Business\StadiumBusiness.cs" />
+    <Compile Include="ViewModel\MatchBusinessViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataAcessLayer\DataAccessLayer.csproj">

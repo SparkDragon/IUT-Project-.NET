@@ -28,3 +28,13 @@ U:\LP\CSharp\QuidditchManager4\QuidditchManagerConsole\bin\Debug\DataAcessLayer.
 U:\LP\CSharp\QuidditchManager4\QuidditchManagerConsole\obj\Debug\QuidditchManagerConsole.csprojResolveAssemblyReference.cache
 U:\LP\CSharp\QuidditchManager4\QuidditchManagerConsole\obj\Debug\QuidditchManagerConsole.exe
 U:\LP\CSharp\QuidditchManager4\QuidditchManagerConsole\obj\Debug\QuidditchManagerConsole.pdb
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerConsole\bin\Debug\QuidditchManagerConsole.exe.config
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerConsole\bin\Debug\QuidditchManagerConsole.exe
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerConsole\bin\Debug\QuidditchManagerConsole.pdb
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerConsole\bin\Debug\BusinessLayer.dll
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerConsole\bin\Debug\DataAcessLayer.dll
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerConsole\bin\Debug\BusinessLayer.pdb
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerConsole\bin\Debug\DataAcessLayer.pdb
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerConsole\obj\Debug\QuidditchManagerConsole.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerConsole\obj\Debug\QuidditchManagerConsole.exe
+C:\Users\Simon\Documents\LicencePro 2014-2015\C#\Project.NET-master\QuidditchManagerConsole\obj\Debug\QuidditchManagerConsole.pdb
