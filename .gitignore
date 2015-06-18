@@ -1,0 +1,13 @@
+BusinessLayer/bin
+DataAcessLayer/bin
+QuidditchManager/bin
+QuidditchWP/bin
+BusinessLayer/obj
+DataAcessLayer/obj
+QuidditchManager/obj
+QuidditchWP/obj
+QuidditchManager.sln
+QuidditchManager.v11.suo
+QuidditchManager.v12.suo
+QuidditchManager/QuidditchManager.csproj
+QuidditchManager/DataAcessLayer/Manager/SqlDataBase.cs
